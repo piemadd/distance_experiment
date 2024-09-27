@@ -1,0 +1,1402 @@
+{
+  "1": {
+    "stopID": "1",
+    "stopName": "Aberdeen-Matawan",
+    "stopLat": 40.41925,
+    "stopLon": -74.22035,
+    "zoneID": "3917",
+    "parentStation": ""
+  },
+  "2": {
+    "stopID": "2",
+    "stopName": "Absecon",
+    "stopLat": 39.42426,
+    "stopLon": -74.50215,
+    "zoneID": "333",
+    "parentStation": ""
+  },
+  "3": {
+    "stopID": "3",
+    "stopName": "Allendale",
+    "stopLat": 41.02673,
+    "stopLon": -74.1287,
+    "zoneID": "2893",
+    "parentStation": ""
+  },
+  "4": {
+    "stopID": "4",
+    "stopName": "Allenhurst",
+    "stopLat": 40.23065,
+    "stopLon": -74.0103,
+    "zoneID": "5453",
+    "parentStation": ""
+  },
+  "5": {
+    "stopID": "5",
+    "stopName": "Anderson Street",
+    "stopLat": 40.8963,
+    "stopLon": -74.0424,
+    "zoneID": "1357",
+    "parentStation": ""
+  },
+  "6": {
+    "stopID": "6",
+    "stopName": "Annandale",
+    "stopLat": 40.65245,
+    "stopLon": -74.8812,
+    "zoneID": "5197",
+    "parentStation": ""
+  },
+  "7": {
+    "stopID": "7",
+    "stopName": "Asbury Park",
+    "stopLat": 40.2306,
+    "stopLon": -74.0103,
+    "zoneID": "5453",
+    "parentStation": ""
+  },
+  "8": {
+    "stopID": "8",
+    "stopName": "Atco",
+    "stopLat": 39.78344,
+    "stopLon": -74.90762,
+    "zoneID": "4429",
+    "parentStation": ""
+  },
+  "9": {
+    "stopID": "9",
+    "stopName": "Atlantic City Terminal",
+    "stopLat": 39.36329,
+    "stopLon": -74.44151,
+    "zoneID": "77",
+    "parentStation": ""
+  },
+  "10": {
+    "stopID": "10",
+    "stopName": "Avenel",
+    "stopLat": 40.5661,
+    "stopLon": -74.2785,
+    "zoneID": "2381",
+    "parentStation": ""
+  },
+  "11": {
+    "stopID": "11",
+    "stopName": "B.W.I. Airport",
+    "stopLat": 40.56055,
+    "stopLon": -74.538,
+    "zoneID": "",
+    "parentStation": ""
+  },
+  "12": {
+    "stopID": "12",
+    "stopName": "Baltimore",
+    "stopLat": 40.56055,
+    "stopLon": -74.538,
+    "zoneID": "",
+    "parentStation": ""
+  },
+  "13": {
+    "stopID": "13",
+    "stopName": "Basking Ridge",
+    "stopLat": 40.70745,
+    "stopLon": -74.55975,
+    "zoneID": "4173",
+    "parentStation": ""
+  },
+  "14": {
+    "stopID": "14",
+    "stopName": "Bay Head",
+    "stopLat": 40.0787,
+    "stopLon": -74.0463,
+    "zoneID": "5965",
+    "parentStation": ""
+  },
+  "15": {
+    "stopID": "15",
+    "stopName": "Bay Street (Montclair)",
+    "stopLat": 40.8086,
+    "stopLon": -74.2085,
+    "zoneID": "1357",
+    "parentStation": ""
+  },
+  "16": {
+    "stopID": "16",
+    "stopName": "Belmar",
+    "stopLat": 40.1818,
+    "stopLon": -74.0269,
+    "zoneID": "5709",
+    "parentStation": ""
+  },
+  "17": {
+    "stopID": "17",
+    "stopName": "Berkeley Heights",
+    "stopLat": 40.6862,
+    "stopLon": -74.42795,
+    "zoneID": "2893",
+    "parentStation": ""
+  },
+  "18": {
+    "stopID": "18",
+    "stopName": "Bernardsville",
+    "stopLat": 40.7167,
+    "stopLon": -74.5715,
+    "zoneID": "4173",
+    "parentStation": ""
+  },
+  "19": {
+    "stopID": "19",
+    "stopName": "Bloomfield",
+    "stopLat": 40.7934,
+    "stopLon": -74.2,
+    "zoneID": "1101",
+    "parentStation": ""
+  },
+  "20": {
+    "stopID": "20",
+    "stopName": "Boonton",
+    "stopLat": 40.8961,
+    "stopLon": -74.4196,
+    "zoneID": "3661",
+    "parentStation": ""
+  },
+  "21": {
+    "stopID": "21",
+    "stopName": "Bound Brook",
+    "stopLat": 40.56055,
+    "stopLon": -74.538,
+    "zoneID": "3661",
+    "parentStation": ""
+  },
+  "22": {
+    "stopID": "22",
+    "stopName": "Bradley Beach",
+    "stopLat": 40.1947,
+    "stopLon": -74.0223,
+    "zoneID": "5453",
+    "parentStation": ""
+  },
+  "23": {
+    "stopID": "23",
+    "stopName": "Brick Church",
+    "stopLat": 40.76515,
+    "stopLon": -74.2177,
+    "zoneID": "1101",
+    "parentStation": ""
+  },
+  "24": {
+    "stopID": "24",
+    "stopName": "Bridgewater",
+    "stopLat": 40.5595,
+    "stopLon": -74.55925,
+    "zoneID": "3917",
+    "parentStation": ""
+  },
+  "25": {
+    "stopID": "25",
+    "stopName": "Broadway",
+    "stopLat": 40.91785,
+    "stopLon": -74.11325,
+    "zoneID": "1613",
+    "parentStation": ""
+  },
+  "26": {
+    "stopID": "26",
+    "stopName": "Campbell Hall",
+    "stopLat": 41.4564,
+    "stopLon": -74.2771,
+    "zoneID": "5709",
+    "parentStation": ""
+  },
+  "27": {
+    "stopID": "27",
+    "stopName": "Chatham",
+    "stopLat": 40.73935,
+    "stopLon": -74.38385,
+    "zoneID": "2637",
+    "parentStation": ""
+  },
+  "28": {
+    "stopID": "28",
+    "stopName": "Cherry Hill",
+    "stopLat": 39.92846,
+    "stopLon": -75.04171,
+    "zoneID": "5197",
+    "parentStation": ""
+  },
+  "29": {
+    "stopID": "29",
+    "stopName": "Clifton",
+    "stopLat": 40.87,
+    "stopLon": -74.1546,
+    "zoneID": "1357",
+    "parentStation": ""
+  },
+  "30": {
+    "stopID": "30",
+    "stopName": "Convent",
+    "stopLat": 40.7841,
+    "stopLon": -74.4501,
+    "zoneID": "3149",
+    "parentStation": ""
+  },
+  "31": {
+    "stopID": "31",
+    "stopName": "Cranford",
+    "stopLat": 40.6555,
+    "stopLon": -74.3032,
+    "zoneID": "1869",
+    "parentStation": ""
+  },
+  "32": {
+    "stopID": "32",
+    "stopName": "Delawanna",
+    "stopLat": 40.83025,
+    "stopLon": -74.13105,
+    "zoneID": "845",
+    "parentStation": ""
+  },
+  "33": {
+    "stopID": "33",
+    "stopName": "Denville",
+    "stopLat": 40.88355,
+    "stopLon": -74.4716,
+    "zoneID": "4173",
+    "parentStation": ""
+  },
+  "34": {
+    "stopID": "34",
+    "stopName": "Dover",
+    "stopLat": 40.88385,
+    "stopLon": -74.55415,
+    "zoneID": "4429",
+    "parentStation": ""
+  },
+  "35": {
+    "stopID": "35",
+    "stopName": "Dunellen",
+    "stopLat": 40.5942,
+    "stopLon": -74.4579,
+    "zoneID": "3149",
+    "parentStation": ""
+  },
+  "36": {
+    "stopID": "36",
+    "stopName": "East Orange",
+    "stopLat": 40.76515,
+    "stopLon": -74.2177,
+    "zoneID": "1101",
+    "parentStation": ""
+  },
+  "37": {
+    "stopID": "37",
+    "stopName": "Edison",
+    "stopLat": 40.5192,
+    "stopLon": -74.4109,
+    "zoneID": "3405",
+    "parentStation": ""
+  },
+  "38": {
+    "stopID": "38",
+    "stopName": "Egg Harbor City",
+    "stopLat": 39.52645,
+    "stopLon": -74.64807,
+    "zoneID": "1613",
+    "parentStation": ""
+  },
+  "39": {
+    "stopID": "39",
+    "stopName": "Elberon",
+    "stopLat": 40.27155,
+    "stopLon": -73.9962,
+    "zoneID": "5197",
+    "parentStation": ""
+  },
+  "40": {
+    "stopID": "40",
+    "stopName": "Elizabeth",
+    "stopLat": 40.67063,
+    "stopLon": -74.21277,
+    "zoneID": "1357",
+    "parentStation": ""
+  },
+  "41": {
+    "stopID": "41",
+    "stopName": "Emerson",
+    "stopLat": 40.9718,
+    "stopLon": -74.0279,
+    "zoneID": "2125",
+    "parentStation": ""
+  },
+  "42": {
+    "stopID": "42",
+    "stopName": "Essex Street",
+    "stopLat": 40.8778,
+    "stopLon": -74.05295,
+    "zoneID": "1357",
+    "parentStation": ""
+  },
+  "43": {
+    "stopID": "43",
+    "stopName": "Fanwood",
+    "stopLat": 40.6396,
+    "stopLon": -74.3875,
+    "zoneID": "2381",
+    "parentStation": ""
+  },
+  "44": {
+    "stopID": "44",
+    "stopName": "Far Hills",
+    "stopLat": 40.6899,
+    "stopLon": -74.6215,
+    "zoneID": "4429",
+    "parentStation": ""
+  },
+  "45": {
+    "stopID": "45",
+    "stopName": "Manville-Finderne",
+    "stopLat": 41.0222,
+    "stopLon": -74.04065,
+    "zoneID": "",
+    "parentStation": ""
+  },
+  "46": {
+    "stopID": "46",
+    "stopName": "Garfield",
+    "stopLat": 40.86665,
+    "stopLon": -74.10205,
+    "zoneID": "1101",
+    "parentStation": ""
+  },
+  "47": {
+    "stopID": "47",
+    "stopName": "Garwood",
+    "stopLat": 40.65345,
+    "stopLon": -74.3186,
+    "zoneID": "2125",
+    "parentStation": ""
+  },
+  "48": {
+    "stopID": "48",
+    "stopName": "Gillette",
+    "stopLat": 40.68005,
+    "stopLon": -74.4566,
+    "zoneID": "3149",
+    "parentStation": ""
+  },
+  "49": {
+    "stopID": "49",
+    "stopName": "Gladstone",
+    "stopLat": 40.72062,
+    "stopLon": -74.66684,
+    "zoneID": "4685",
+    "parentStation": ""
+  },
+  "50": {
+    "stopID": "50",
+    "stopName": "Glen Ridge",
+    "stopLat": 40.7974,
+    "stopLon": -74.20255,
+    "zoneID": "1101",
+    "parentStation": ""
+  },
+  "51": {
+    "stopID": "51",
+    "stopName": "Glen Rock (Boro Hall)",
+    "stopLat": 40.95985,
+    "stopLon": -74.1279,
+    "zoneID": "2125",
+    "parentStation": ""
+  },
+  "52": {
+    "stopID": "52",
+    "stopName": "Glen Rock (Main Line)",
+    "stopLat": 40.96515,
+    "stopLon": -74.1308,
+    "zoneID": "2125",
+    "parentStation": ""
+  },
+  "53": {
+    "stopID": "53",
+    "stopName": "Great Notch",
+    "stopLat": 40.56055,
+    "stopLon": -74.538,
+    "zoneID": "",
+    "parentStation": ""
+  },
+  "54": {
+    "stopID": "54",
+    "stopName": "Hackettstown",
+    "stopLat": 40.8535,
+    "stopLon": -74.8332,
+    "zoneID": "4941",
+    "parentStation": ""
+  },
+  "55": {
+    "stopID": "55",
+    "stopName": "Hamilton",
+    "stopLat": 40.2554,
+    "stopLon": -74.70395,
+    "zoneID": "5197",
+    "parentStation": ""
+  },
+  "56": {
+    "stopID": "56",
+    "stopName": "Hammonton",
+    "stopLat": 39.63164,
+    "stopLon": -74.79949,
+    "zoneID": "2893",
+    "parentStation": ""
+  },
+  "57": {
+    "stopID": "57",
+    "stopName": "Harriman Station",
+    "stopLat": 41.29296,
+    "stopLon": -74.14038,
+    "zoneID": "5197",
+    "parentStation": ""
+  },
+  "58": {
+    "stopID": "58",
+    "stopName": "Hawthorne",
+    "stopLat": 40.9465,
+    "stopLon": -74.14875,
+    "zoneID": "1869",
+    "parentStation": ""
+  },
+  "59": {
+    "stopID": "59",
+    "stopName": "Hazlet",
+    "stopLat": 40.41545,
+    "stopLon": -74.19075,
+    "zoneID": "4173",
+    "parentStation": ""
+  },
+  "60": {
+    "stopID": "60",
+    "stopName": "High Bridge",
+    "stopLat": 40.66687,
+    "stopLon": -74.89595,
+    "zoneID": "5453",
+    "parentStation": ""
+  },
+  "61": {
+    "stopID": "61",
+    "stopName": "Highland Ave.",
+    "stopLat": 40.7654,
+    "stopLon": -74.241,
+    "zoneID": "1357",
+    "parentStation": ""
+  },
+  "62": {
+    "stopID": "62",
+    "stopName": "Hillsdale",
+    "stopLat": 41.00735,
+    "stopLon": -74.04165,
+    "zoneID": "2381",
+    "parentStation": ""
+  },
+  "63": {
+    "stopID": "63",
+    "stopName": "Hoboken",
+    "stopLat": 40.7347,
+    "stopLon": -74.0311,
+    "zoneID": "336",
+    "parentStation": ""
+  },
+  "64": {
+    "stopID": "64",
+    "stopName": "Ho-Ho-Kus",
+    "stopLat": 40.9952,
+    "stopLon": -74.11505,
+    "zoneID": "2637",
+    "parentStation": ""
+  },
+  "65": {
+    "stopID": "65",
+    "stopName": "Jersey Avenue",
+    "stopLat": 40.43685,
+    "stopLon": -74.4968,
+    "zoneID": "3661",
+    "parentStation": ""
+  },
+  "66": {
+    "stopID": "66",
+    "stopName": "Kingsland",
+    "stopLat": 40.80775,
+    "stopLon": -74.11535,
+    "zoneID": "589",
+    "parentStation": ""
+  },
+  "67": {
+    "stopID": "67",
+    "stopName": "Lake Hopatcong",
+    "stopLat": 40.90375,
+    "stopLon": -74.6723,
+    "zoneID": "4941",
+    "parentStation": ""
+  },
+  "68": {
+    "stopID": "68",
+    "stopName": "Lebanon",
+    "stopLat": 40.6358,
+    "stopLon": -74.8289,
+    "zoneID": "5197",
+    "parentStation": ""
+  },
+  "69": {
+    "stopID": "69",
+    "stopName": "Lincoln Park",
+    "stopLat": 40.92535,
+    "stopLon": -74.3062,
+    "zoneID": "2637",
+    "parentStation": ""
+  },
+  "70": {
+    "stopID": "70",
+    "stopName": "Linden",
+    "stopLat": 40.62843,
+    "stopLon": -74.25297,
+    "zoneID": "1869",
+    "parentStation": ""
+  },
+  "71": {
+    "stopID": "71",
+    "stopName": "Lindenwold",
+    "stopLat": 39.83378,
+    "stopLon": -75.00036,
+    "zoneID": "4941",
+    "parentStation": ""
+  },
+  "72": {
+    "stopID": "72",
+    "stopName": "Little Falls",
+    "stopLat": 40.8842,
+    "stopLon": -74.2404,
+    "zoneID": "2125",
+    "parentStation": ""
+  },
+  "73": {
+    "stopID": "73",
+    "stopName": "Little Silver",
+    "stopLat": 40.32375,
+    "stopLon": -74.03525,
+    "zoneID": "4941",
+    "parentStation": ""
+  },
+  "74": {
+    "stopID": "74",
+    "stopName": "Long Branch",
+    "stopLat": 40.29847,
+    "stopLon": -73.98877,
+    "zoneID": "5197",
+    "parentStation": ""
+  },
+  "75": {
+    "stopID": "75",
+    "stopName": "Lyndhurst",
+    "stopLat": 40.81645,
+    "stopLon": -74.1238,
+    "zoneID": "589",
+    "parentStation": ""
+  },
+  "76": {
+    "stopID": "76",
+    "stopName": "Lyons",
+    "stopLat": 40.6933,
+    "stopLon": -74.5512,
+    "zoneID": "3661",
+    "parentStation": ""
+  },
+  "77": {
+    "stopID": "77",
+    "stopName": "Madison",
+    "stopLat": 40.7589,
+    "stopLon": -74.4167,
+    "zoneID": "2893",
+    "parentStation": ""
+  },
+  "78": {
+    "stopID": "78",
+    "stopName": "Mahwah",
+    "stopLat": 41.0907,
+    "stopLon": -74.1461,
+    "zoneID": "3661",
+    "parentStation": ""
+  },
+  "79": {
+    "stopID": "79",
+    "stopName": "Manasquan",
+    "stopLat": 40.1293,
+    "stopLon": -74.0432,
+    "zoneID": "5965",
+    "parentStation": ""
+  },
+  "80": {
+    "stopID": "80",
+    "stopName": "Maplewood",
+    "stopLat": 40.72943,
+    "stopLon": -74.28377,
+    "zoneID": "1613",
+    "parentStation": ""
+  },
+  "81": {
+    "stopID": "81",
+    "stopName": "Meadowlands",
+    "stopLat": 40.81303,
+    "stopLon": -74.07223,
+    "zoneID": "",
+    "parentStation": ""
+  },
+  "82": {
+    "stopID": "82",
+    "stopName": "Metropark",
+    "stopLat": 40.56775,
+    "stopLon": -74.33055,
+    "zoneID": "2637",
+    "parentStation": ""
+  },
+  "83": {
+    "stopID": "83",
+    "stopName": "Metuchen",
+    "stopLat": 40.54035,
+    "stopLon": -74.36175,
+    "zoneID": "2893",
+    "parentStation": ""
+  },
+  "84": {
+    "stopID": "84",
+    "stopName": "Middletown",
+    "stopLat": 40.38935,
+    "stopLon": -74.11555,
+    "zoneID": "4429",
+    "parentStation": ""
+  },
+  "85": {
+    "stopID": "85",
+    "stopName": "Middletown, NY",
+    "stopLat": 41.45743,
+    "stopLon": -74.37045,
+    "zoneID": "5965",
+    "parentStation": ""
+  },
+  "86": {
+    "stopID": "86",
+    "stopName": "Millburn",
+    "stopLat": 40.72495,
+    "stopLon": -74.3085,
+    "zoneID": "1869",
+    "parentStation": ""
+  },
+  "87": {
+    "stopID": "87",
+    "stopName": "Millington",
+    "stopLat": 40.674,
+    "stopLon": -74.5114,
+    "zoneID": "3661",
+    "parentStation": ""
+  },
+  "88": {
+    "stopID": "88",
+    "stopName": "Monmouth Park",
+    "stopLat": 40.3147,
+    "stopLon": -74.0175,
+    "zoneID": "",
+    "parentStation": ""
+  },
+  "89": {
+    "stopID": "89",
+    "stopName": "Montclair Heights",
+    "stopLat": 40.8589,
+    "stopLon": -74.2014,
+    "zoneID": "1613",
+    "parentStation": ""
+  },
+  "90": {
+    "stopID": "90",
+    "stopName": "Montclair State University",
+    "stopLat": 40.86685,
+    "stopLon": -74.1984,
+    "zoneID": "1613",
+    "parentStation": ""
+  },
+  "91": {
+    "stopID": "91",
+    "stopName": "Montvale",
+    "stopLat": 41.0407,
+    "stopLon": -74.0293,
+    "zoneID": "2637",
+    "parentStation": ""
+  },
+  "92": {
+    "stopID": "92",
+    "stopName": "Morris Plains",
+    "stopLat": 40.833,
+    "stopLon": -74.47835,
+    "zoneID": "4173",
+    "parentStation": ""
+  },
+  "93": {
+    "stopID": "93",
+    "stopName": "Morristown",
+    "stopLat": 40.7977,
+    "stopLon": -74.4742,
+    "zoneID": "3661",
+    "parentStation": ""
+  },
+  "94": {
+    "stopID": "94",
+    "stopName": "Mount Arlington",
+    "stopLat": 40.8958,
+    "stopLon": -74.6357,
+    "zoneID": "4941",
+    "parentStation": ""
+  },
+  "95": {
+    "stopID": "95",
+    "stopName": "Mount Olive",
+    "stopLat": 40.9078,
+    "stopLon": -74.73165,
+    "zoneID": "4941",
+    "parentStation": ""
+  },
+  "96": {
+    "stopID": "96",
+    "stopName": "Mount Tabor",
+    "stopLat": 40.8759,
+    "stopLon": -74.48192,
+    "zoneID": "4173",
+    "parentStation": ""
+  },
+  "97": {
+    "stopID": "97",
+    "stopName": "Mountain Ave.",
+    "stopLat": 40.84868,
+    "stopLon": -74.20544,
+    "zoneID": "1613",
+    "parentStation": ""
+  },
+  "98": {
+    "stopID": "98",
+    "stopName": "Mountain Lakes",
+    "stopLat": 40.8891,
+    "stopLon": -74.429,
+    "zoneID": "3661",
+    "parentStation": ""
+  },
+  "99": {
+    "stopID": "99",
+    "stopName": "Mountain Sta.",
+    "stopLat": 40.7511,
+    "stopLon": -74.25645,
+    "zoneID": "1357",
+    "parentStation": ""
+  },
+  "100": {
+    "stopID": "100",
+    "stopName": "Mountain View",
+    "stopLat": 40.91175,
+    "stopLon": -74.2659,
+    "zoneID": "2381",
+    "parentStation": ""
+  },
+  "101": {
+    "stopID": "101",
+    "stopName": "Murray Hill",
+    "stopLat": 40.6938,
+    "stopLon": -74.4059,
+    "zoneID": "2637",
+    "parentStation": ""
+  },
+  "102": {
+    "stopID": "102",
+    "stopName": "Nanuet",
+    "stopLat": 41.09265,
+    "stopLon": -74.01715,
+    "zoneID": "4941",
+    "parentStation": ""
+  },
+  "103": {
+    "stopID": "103",
+    "stopName": "Netcong",
+    "stopLat": 40.8951,
+    "stopLon": -74.7132,
+    "zoneID": "4941",
+    "parentStation": ""
+  },
+  "104": {
+    "stopID": "104",
+    "stopName": "Netherwood",
+    "stopLat": 40.6229,
+    "stopLon": -74.4135,
+    "zoneID": "2637",
+    "parentStation": ""
+  },
+  "105": {
+    "stopID": "105",
+    "stopName": "New Bridge Landing",
+    "stopLat": 40.9166,
+    "stopLon": -74.034,
+    "zoneID": "1613",
+    "parentStation": ""
+  },
+  "106": {
+    "stopID": "106",
+    "stopName": "New Brunswick",
+    "stopLat": 40.4991,
+    "stopLon": -74.4426,
+    "zoneID": "3661",
+    "parentStation": ""
+  },
+  "107": {
+    "stopID": "107",
+    "stopName": "New Carrollton",
+    "stopLat": 40.56055,
+    "stopLon": -74.538,
+    "zoneID": "",
+    "parentStation": ""
+  },
+  "108": {
+    "stopID": "108",
+    "stopName": "New Providence",
+    "stopLat": 40.7048,
+    "stopLon": -74.3937,
+    "zoneID": "2381",
+    "parentStation": ""
+  },
+  "109": {
+    "stopID": "109",
+    "stopName": "Penn Station New York",
+    "stopLat": 40.74999,
+    "stopLon": -73.99236,
+    "zoneID": "329",
+    "parentStation": ""
+  },
+  "110": {
+    "stopID": "110",
+    "stopName": "Newark Int'l Airport",
+    "stopLat": 40.70833,
+    "stopLon": -74.1886,
+    "zoneID": "1345",
+    "parentStation": ""
+  },
+  "111": {
+    "stopID": "111",
+    "stopName": "Newark Broad St.",
+    "stopLat": 40.74785,
+    "stopLon": -74.17235,
+    "zoneID": "589",
+    "parentStation": ""
+  },
+  "112": {
+    "stopID": "112",
+    "stopName": "Newark Penn Station",
+    "stopLat": 40.73443,
+    "stopLon": -74.1641,
+    "zoneID": "336",
+    "parentStation": ""
+  },
+  "113": {
+    "stopID": "113",
+    "stopName": "North Branch",
+    "stopLat": 40.597,
+    "stopLon": -74.7217,
+    "zoneID": "4685",
+    "parentStation": ""
+  },
+  "114": {
+    "stopID": "114",
+    "stopName": "North Elizabeth",
+    "stopLat": 40.682,
+    "stopLon": -74.20483,
+    "zoneID": "1357",
+    "parentStation": ""
+  },
+  "115": {
+    "stopID": "115",
+    "stopName": "North Philadelphia",
+    "stopLat": 40.56055,
+    "stopLon": -74.538,
+    "zoneID": "",
+    "parentStation": ""
+  },
+  "116": {
+    "stopID": "116",
+    "stopName": "Oradell",
+    "stopLat": 40.94945,
+    "stopLon": -74.02835,
+    "zoneID": "1869",
+    "parentStation": ""
+  },
+  "117": {
+    "stopID": "117",
+    "stopName": "Orange",
+    "stopLat": 40.7654,
+    "stopLon": -74.241,
+    "zoneID": "1101",
+    "parentStation": ""
+  },
+  "118": {
+    "stopID": "118",
+    "stopName": "Otisville",
+    "stopLat": 41.47177,
+    "stopLon": -74.52923,
+    "zoneID": "6221",
+    "parentStation": ""
+  },
+  "119": {
+    "stopID": "119",
+    "stopName": "Park Ridge",
+    "stopLat": 41.0359,
+    "stopLon": -74.03315,
+    "zoneID": "2637",
+    "parentStation": ""
+  },
+  "120": {
+    "stopID": "120",
+    "stopName": "Passaic",
+    "stopLat": 40.84975,
+    "stopLon": -74.13415,
+    "zoneID": "1101",
+    "parentStation": ""
+  },
+  "121": {
+    "stopID": "121",
+    "stopName": "Paterson",
+    "stopLat": 40.91925,
+    "stopLon": -74.16605,
+    "zoneID": "1613",
+    "parentStation": ""
+  },
+  "122": {
+    "stopID": "122",
+    "stopName": "Peapack",
+    "stopLat": 40.6986,
+    "stopLon": -74.6572,
+    "zoneID": "4685",
+    "parentStation": ""
+  },
+  "123": {
+    "stopID": "123",
+    "stopName": "Pearl River",
+    "stopLat": 41.0616,
+    "stopLon": -74.0236,
+    "zoneID": "4941",
+    "parentStation": ""
+  },
+  "124": {
+    "stopID": "124",
+    "stopName": "Pennsauken",
+    "stopLat": 40.56055,
+    "stopLon": -74.538,
+    "zoneID": "5197",
+    "parentStation": ""
+  },
+  "125": {
+    "stopID": "125",
+    "stopName": "Perth Amboy",
+    "stopLat": 40.5058,
+    "stopLon": -74.27555,
+    "zoneID": "3149",
+    "parentStation": ""
+  },
+  "126": {
+    "stopID": "126",
+    "stopName": "Philadelphia 30th St.",
+    "stopLat": 40.56055,
+    "stopLon": -74.538,
+    "zoneID": "5961",
+    "parentStation": ""
+  },
+  "127": {
+    "stopID": "127",
+    "stopName": "Plainfield",
+    "stopLat": 40.6162,
+    "stopLon": -74.42335,
+    "zoneID": "2893",
+    "parentStation": ""
+  },
+  "128": {
+    "stopID": "128",
+    "stopName": "Plauderville",
+    "stopLat": 40.8811,
+    "stopLon": -74.1035,
+    "zoneID": "1357",
+    "parentStation": ""
+  },
+  "129": {
+    "stopID": "129",
+    "stopName": "Point Pleasant",
+    "stopLat": 40.0959,
+    "stopLon": -74.0484,
+    "zoneID": "5965",
+    "parentStation": ""
+  },
+  "130": {
+    "stopID": "130",
+    "stopName": "Port Jervis",
+    "stopLat": 41.37488,
+    "stopLon": -74.69467,
+    "zoneID": "6477",
+    "parentStation": ""
+  },
+  "131": {
+    "stopID": "131",
+    "stopName": "Princeton Station",
+    "stopLat": 40.56055,
+    "stopLon": -74.538,
+    "zoneID": "25421",
+    "parentStation": ""
+  },
+  "132": {
+    "stopID": "132",
+    "stopName": "Princeton Junction",
+    "stopLat": 40.3196,
+    "stopLon": -74.6194,
+    "zoneID": "4941",
+    "parentStation": ""
+  },
+  "133": {
+    "stopID": "133",
+    "stopName": "Radburn",
+    "stopLat": 40.9456,
+    "stopLon": -74.12375,
+    "zoneID": "1613",
+    "parentStation": ""
+  },
+  "134": {
+    "stopID": "134",
+    "stopName": "Rahway",
+    "stopLat": 40.61424,
+    "stopLon": -74.26814,
+    "zoneID": "2125",
+    "parentStation": ""
+  },
+  "135": {
+    "stopID": "135",
+    "stopName": "Ramsey",
+    "stopLat": 41.05357,
+    "stopLon": -74.14093,
+    "zoneID": "3149",
+    "parentStation": ""
+  },
+  "136": {
+    "stopID": "136",
+    "stopName": "Route 17 Station",
+    "stopLat": 41.07857,
+    "stopLon": -74.14543,
+    "zoneID": "3149",
+    "parentStation": ""
+  },
+  "137": {
+    "stopID": "137",
+    "stopName": "Raritan",
+    "stopLat": 40.5703,
+    "stopLon": -74.62785,
+    "zoneID": "4429",
+    "parentStation": ""
+  },
+  "138": {
+    "stopID": "138",
+    "stopName": "Red Bank",
+    "stopLat": 40.3483,
+    "stopLon": -74.0745,
+    "zoneID": "4685",
+    "parentStation": ""
+  },
+  "139": {
+    "stopID": "139",
+    "stopName": "Ridgewood",
+    "stopLat": 40.98145,
+    "stopLon": -74.12015,
+    "zoneID": "2381",
+    "parentStation": ""
+  },
+  "140": {
+    "stopID": "140",
+    "stopName": "River Edge",
+    "stopLat": 40.93705,
+    "stopLon": -74.02865,
+    "zoneID": "1613",
+    "parentStation": ""
+  },
+  "141": {
+    "stopID": "141",
+    "stopName": "Roselle Park",
+    "stopLat": 40.66711,
+    "stopLon": -74.26636,
+    "zoneID": "1613",
+    "parentStation": ""
+  },
+  "142": {
+    "stopID": "142",
+    "stopName": "Rutherford",
+    "stopLat": 40.83125,
+    "stopLon": -74.1019,
+    "zoneID": "845",
+    "parentStation": ""
+  },
+  "143": {
+    "stopID": "143",
+    "stopName": "Salisbury Mills",
+    "stopLat": 41.4551,
+    "stopLon": -74.1249,
+    "zoneID": "5453",
+    "parentStation": ""
+  },
+  "144": {
+    "stopID": "144",
+    "stopName": "Secaucus Junction",
+    "stopLat": 40.75765,
+    "stopLon": -74.073,
+    "zoneID": "333",
+    "parentStation": ""
+  },
+  "145": {
+    "stopID": "145",
+    "stopName": "Secaucus Station",
+    "stopLat": 40.76143,
+    "stopLon": -74.07573,
+    "zoneID": "329",
+    "parentStation": ""
+  },
+  "146": {
+    "stopID": "146",
+    "stopName": "Short Hills",
+    "stopLat": 40.7264,
+    "stopLon": -74.3332,
+    "zoneID": "1869",
+    "parentStation": ""
+  },
+  "147": {
+    "stopID": "147",
+    "stopName": "Sloatsburg",
+    "stopLat": 41.16955,
+    "stopLon": -74.1874,
+    "zoneID": "3917",
+    "parentStation": ""
+  },
+  "148": {
+    "stopID": "148",
+    "stopName": "Somerville",
+    "stopLat": 40.56595,
+    "stopLon": -74.60935,
+    "zoneID": "4429",
+    "parentStation": ""
+  },
+  "149": {
+    "stopID": "149",
+    "stopName": "South Amboy",
+    "stopLat": 40.48395,
+    "stopLon": -74.2802,
+    "zoneID": "3405",
+    "parentStation": ""
+  },
+  "150": {
+    "stopID": "150",
+    "stopName": "South Orange",
+    "stopLat": 40.7511,
+    "stopLon": -74.25645,
+    "zoneID": "1357",
+    "parentStation": ""
+  },
+  "151": {
+    "stopID": "151",
+    "stopName": "Spring Lake",
+    "stopLat": 40.157,
+    "stopLon": -74.034,
+    "zoneID": "5709",
+    "parentStation": ""
+  },
+  "152": {
+    "stopID": "152",
+    "stopName": "Spring Valley",
+    "stopLat": 41.1066,
+    "stopLon": -74.0302,
+    "zoneID": "4941",
+    "parentStation": ""
+  },
+  "153": {
+    "stopID": "153",
+    "stopName": "Stirling",
+    "stopLat": 40.6747,
+    "stopLon": -74.4941,
+    "zoneID": "3661",
+    "parentStation": ""
+  },
+  "154": {
+    "stopID": "154",
+    "stopName": "Suffern",
+    "stopLat": 41.11325,
+    "stopLon": -74.1533,
+    "zoneID": "3661",
+    "parentStation": ""
+  },
+  "155": {
+    "stopID": "155",
+    "stopName": "Summit",
+    "stopLat": 40.717,
+    "stopLon": -74.3585,
+    "zoneID": "2381",
+    "parentStation": ""
+  },
+  "156": {
+    "stopID": "156",
+    "stopName": "Teterboro",
+    "stopLat": 40.86925,
+    "stopLon": -74.05935,
+    "zoneID": "1101",
+    "parentStation": ""
+  },
+  "157": {
+    "stopID": "157",
+    "stopName": "Towaco",
+    "stopLat": 40.9205,
+    "stopLon": -74.3469,
+    "zoneID": "2893",
+    "parentStation": ""
+  },
+  "158": {
+    "stopID": "158",
+    "stopName": "Trenton Station",
+    "stopLat": 40.2194,
+    "stopLon": -74.7526,
+    "zoneID": "5709",
+    "parentStation": ""
+  },
+  "159": {
+    "stopID": "159",
+    "stopName": "Tuxedo",
+    "stopLat": 41.19419,
+    "stopLon": -74.18447,
+    "zoneID": "3917",
+    "parentStation": ""
+  },
+  "160": {
+    "stopID": "160",
+    "stopName": "Union Station",
+    "stopLat": 40.6837,
+    "stopLon": -74.23865,
+    "zoneID": "1357",
+    "parentStation": ""
+  },
+  "161": {
+    "stopID": "161",
+    "stopName": "Upper Montclair",
+    "stopLat": 40.84219,
+    "stopLon": -74.20947,
+    "zoneID": "1357",
+    "parentStation": ""
+  },
+  "162": {
+    "stopID": "162",
+    "stopName": "Waldwick",
+    "stopLat": 41.0076,
+    "stopLon": -74.11965,
+    "zoneID": "2637",
+    "parentStation": ""
+  },
+  "163": {
+    "stopID": "163",
+    "stopName": "Walnut Street (Montclair)",
+    "stopLat": 40.8262,
+    "stopLon": -74.2077,
+    "zoneID": "1357",
+    "parentStation": ""
+  },
+  "164": {
+    "stopID": "164",
+    "stopName": "Washington",
+    "stopLat": 40.61695,
+    "stopLon": -74.77625,
+    "zoneID": "",
+    "parentStation": ""
+  },
+  "165": {
+    "stopID": "165",
+    "stopName": "Watchung Avenue",
+    "stopLat": 40.84025,
+    "stopLon": -74.20525,
+    "zoneID": "1357",
+    "parentStation": ""
+  },
+  "166": {
+    "stopID": "166",
+    "stopName": "Watsessing Avenue (Bloomfield)",
+    "stopLat": 40.7837,
+    "stopLon": -74.1988,
+    "zoneID": "1101",
+    "parentStation": ""
+  },
+  "167": {
+    "stopID": "167",
+    "stopName": "Route 23",
+    "stopLat": 40.8959,
+    "stopLon": -74.2536,
+    "zoneID": "2381",
+    "parentStation": ""
+  },
+  "168": {
+    "stopID": "168",
+    "stopName": "Wesmont",
+    "stopLat": 39.90707,
+    "stopLon": -75.04733,
+    "zoneID": "1101",
+    "parentStation": ""
+  },
+  "169": {
+    "stopID": "169",
+    "stopName": "Westfield",
+    "stopLat": 40.6481,
+    "stopLon": -74.3581,
+    "zoneID": "2125",
+    "parentStation": ""
+  },
+  "170": {
+    "stopID": "170",
+    "stopName": "Westwood",
+    "stopLat": 40.9954,
+    "stopLon": -74.03595,
+    "zoneID": "2381",
+    "parentStation": ""
+  },
+  "171": {
+    "stopID": "171",
+    "stopName": "White House",
+    "stopLat": 40.61695,
+    "stopLon": -74.77625,
+    "zoneID": "4941",
+    "parentStation": ""
+  },
+  "172": {
+    "stopID": "172",
+    "stopName": "Wilmington",
+    "stopLat": 40.61695,
+    "stopLon": -74.77625,
+    "zoneID": "",
+    "parentStation": ""
+  },
+  "174": {
+    "stopID": "174",
+    "stopName": "Woodbridge",
+    "stopLat": 40.5591,
+    "stopLon": -74.278,
+    "zoneID": "2637",
+    "parentStation": ""
+  },
+  "175": {
+    "stopID": "175",
+    "stopName": "Woodcliff Lake",
+    "stopLat": 41.0222,
+    "stopLon": -74.04065,
+    "zoneID": "2637",
+    "parentStation": ""
+  },
+  "176": {
+    "stopID": "176",
+    "stopName": "Wood-Ridge",
+    "stopLat": 40.8438,
+    "stopLon": -74.07885,
+    "zoneID": "845",
+    "parentStation": ""
+  }
+}
